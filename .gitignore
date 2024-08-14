@@ -1,1 +1,4 @@
 data/ratings.csv
+
+venv/Lib
+venv/Scripts
